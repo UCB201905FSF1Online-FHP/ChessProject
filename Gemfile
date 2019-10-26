@@ -75,3 +75,4 @@ source 'https://rails-assets.org' do
 end
 
 gem 'devise'
+gem 'simple_form'
